@@ -1,47 +1,77 @@
-# Bienvenido/a a mi perfil de GitHub!
+<h1 align="center">👋 ¡Hola! Soy Jhony Michael Durán Ramírez</h1>
 
-¡Hola! Soy Jhony Michael Durán Ramírez, ingeniero de soporte en la Clínica San José de Cúcuta y entusiasta del desarrollo de software e inteligencia artificial. Aquí encontrarás mis proyectos más recientes y contribuciones en distintas áreas de la tecnología.
+<p align="center">
+  <strong>Desarrollador multidisciplinario | Apasionado por la inteligencia artificial | En constante aprendizaje</strong>
+</p>
 
-## Acerca de mí
+---
 
-- 🎓 Maestría en Inteligencia Artificial.
-- 🏥 Experiencia en soporte tecnológico en el sector salud.
-- 💻 Amplio conocimiento en Python, Java, C++, C#, PHP, VHDL y desarrollo móvil.
-- 📊 Apasionado por el análisis de datos, machine learning y el desarrollo web.
+### 💡 Sobre mí
 
-## Proyectos Destacados
+Soy un desarrollador con sólida formación técnica y experiencia en múltiples lenguajes y plataformas. Me interesa especialmente la aplicación práctica de la inteligencia artificial, el análisis de datos, y la creación de soluciones que mejoren la eficiencia operativa y la experiencia del usuario.
 
-### MichiRazaDetector
-Proyecto orientado a entrenar una CNN preentrenada para detectar la raza de gatos a partir de imágenes.
-- Implementado en Jupyter Notebook.
-- Uso de modelos de Deep Learning y procesamiento de imágenes.
+---
 
-### Iperf3-GUI
-Aplicación en Python con interfaz gráfica para pruebas de velocidad de red utilizando iperf3.
-- Permite configurar IP del servidor y duración de la prueba.
-- Facilita el análisis y visualización de resultados.
+### 🧠 Habilidades y Tecnologías
 
-### Wine_Analysis
-Análisis exploratorio del dataset de calidad de vino tinto.
-- Revisión detallada de variables, distribuciones y correlaciones.
-- Hallazgos visualizados y documentados en Jupyter Notebook.
+#### 💻 Lenguajes de programación
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-### Tank2025-Remake
-Remake del clásico juego Battle City (Tank 1990) desarrollado con PyGame.
-- Juego retro 🚀🎮 programado en Python.
-- Diseño de niveles y mecánicas de juego personalizadas.
+#### ⚙️ Herramientas y Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Apps Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-### air-quality-dashboard
-Aplicación en Python para restaurar imágenes y visualizar datos de calidad del aire utilizando Dash y la API de OpenAQ.
+#### 🧠 Inteligencia Artificial & Ciencia de Datos
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-### Restaurador-de-imagenes
-Herramienta en Python para restaurar imágenes usando los algoritmos Telea y Navier-Stokes de OpenCV.
+#### 📡 Redes y Monitoreo
+<p>
+  <img src="https://img.shields.io/badge/SNMP-006600?style=for-the-badge&logo=snmp&logoColor=white" />
+  <img src="https://img.shields.io/badge/iPerf3-0091EA?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
 
-### expenses-app
-Aplicación web en PHP para el control de gastos mensuales, desarrollada siguiendo el patrón modelo-vista-controlador (MVC).
+#### 🖋 Captura de firmas y dispositivos
+<p>
+  <img src="https://img.shields.io/badge/Wacom-00B0FF?style=for-the-badge&logo=wacom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wacom Ink SDK-007ACC?style=for-the-badge&logoColor=white" />
+</p>
 
-### MASTER-IA
-Implementación de algoritmos para el análisis de CNN preentrenadas, orientados a la detección de lesiones pigmentadas cutáneas.
+---
+
+### 🚀 Qué encontrarás en mis repositorios
+
+- Aplicaciones para test de velocidad de red local
+- Interfaces gráficas para monitoreo de red
+- Herramientas para captura de firmas digitales
+- Sistemas de evaluación de desempeño con IA
+- Scripts para análisis de datos y visualización
+- Proyectos web con backend en Java (Spring Boot)
+
+---
+
+### 📬 ¿Te interesa colaborar?
+
+Si deseas contactarme para colaborar en un proyecto o conocer más sobre lo que hago, estaré encantado de conversar.
+
+---
 
 ## Contáctame
 
@@ -51,3 +81,4 @@ Implementación de algoritmos para el análisis de CNN preentrenadas, orientados
 ---
 
 ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna pregunta sobre mis proyectos, no dudes en contactarme.
+
